@@ -1,4 +1,4 @@
-[!TIP]
+> [!TIP]
 > # Download
 > Download the latest version on the right side under the headline releases
 

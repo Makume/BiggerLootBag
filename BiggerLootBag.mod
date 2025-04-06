@@ -5,6 +5,7 @@
 		<Description text="This module contains the EA Default Loot Windows." />
 		<VersionSettings gameVersion="1.4.8" windowsVersion="1.0" savedVariablesVersion="1.0"/>
 		<WARInfo>
+			<Replaces name="EA_LootWindow" />
 			<Categories>
 				<Category name="OTHER" />
 			</Categories>
@@ -55,7 +56,6 @@
 		</OnInitialize>   
 		<SavedVariables/>
 		<OnUpdate/>
-		<OnShutdown/>
-		<Replaces name="EA_LootWindow" />
+		<OnShutdown/>		
 	</UiMod>
 </ModuleFile>

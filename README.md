@@ -7,4 +7,4 @@
 > 
 > | Version  | Description |
 > | ------------- | ------------- |
-> | 1.0.0  | Just a bigger lootbag <br>![Version 1.0.0](https://raw.githubusercontent.com/Makume/WarBoard_AAO/f8f3080bbef8b93d33b5b63efc431530a2a9fcf7/Images/AAO.png) |
+> | 1.0.0  | Just a bigger lootbag <br>![Version 1.0.0](https://raw.githubusercontent.com/Makume/BiggerLootBag/e1e574350e9605dd604d2364cb086402ff0cdf71/Images/Lootbag.png) |
